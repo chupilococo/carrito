@@ -15,6 +15,7 @@
 	<link rel="stylesheet" type="text/css" href="css/main.css">
 	<link rel="stylesheet" type="text/css" href="css/nav.css">
     <link rel="stylesheet" type="text/css" href="css/hero.css">
+    <link rel="stylesheet" type="text/css" href="css/productos.css">
     <link rel="stylesheet" href="css/contacto.css">
     <link rel="stylesheet" href="css/footer.css">
     <script src="js/main.js"></script>

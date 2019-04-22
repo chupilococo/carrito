@@ -22,12 +22,17 @@ body{
     color:white;
 }
 
+pre{
+    white-space: pre-wrap;
+}
+
 .content {
     color:white;
     background-color: #333;
     display: grid;
     place-items: center;
     min-height: 100% ;
+    margin-top: 2em;
 }
 
 .content section{
