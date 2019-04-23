@@ -7,6 +7,7 @@ const Secciones=[
     'productos' =>'secciones/productos.php',
     'contacto'  =>'secciones/contacto.php',
     404         =>'secciones/404.php',
+    'merci'     =>'secciones/graciela.php',
 ];
 
 $seccion='index';

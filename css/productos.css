@@ -13,5 +13,14 @@
 }
 
 .productos .producto {
-    display: inline-block;
+    display: grid;
+    place-items: center;
+}
+
+.productos .producto img {
+    display: block;
+    overflow: hidden;
+    height: 10em;
+    width: 10em;
+    border-radius: 5px;
 }

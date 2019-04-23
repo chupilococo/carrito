@@ -1,10 +1,6 @@
 <?php
     include_once ('logic/getContentent.php');
 ?>
-
-
-
-
 <!DOCTYPE html>
 <html lang="es">
 <head>
@@ -18,7 +14,7 @@
     <link rel="stylesheet" type="text/css" href="css/productos.css">
     <link rel="stylesheet" href="css/contacto.css">
     <link rel="stylesheet" href="css/footer.css">
-    <script src="js/main.js"></script>
+<!--    <script src="js/main.js"></script>-->
 	<title>Carrito de Compras</title>
 </head>
 <body>

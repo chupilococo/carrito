@@ -13,7 +13,7 @@
 }
 
 body{
-    height: 95vh;
+    height: 87.5vh;
     position: relative;
     margin: 0;
     background: #222;
@@ -30,7 +30,7 @@ pre{
     color:white;
     background-color: #333;
     display: grid;
-    place-items: center;
+    place-content: center;
     min-height: 100% ;
     margin-top: 3em;
 }
@@ -39,6 +39,6 @@ pre{
     min-height: 80%;
     width: 80vw;
     display: grid;
-    place-items: center;
+    place-content: center;
     background-color: var(--bg-clr-main);
 }
