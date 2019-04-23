@@ -32,11 +32,13 @@ pre{
     display: grid;
     place-items: center;
     min-height: 100% ;
-    margin-top: 2em;
+    margin-top: 3em;
 }
 
 .content section{
     min-height: 80%;
     width: 80vw;
+    display: grid;
+    place-items: center;
     background-color: var(--bg-clr-main);
 }
