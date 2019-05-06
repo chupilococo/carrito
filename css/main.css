@@ -42,3 +42,21 @@ pre{
     place-content: center;
     background-color: var(--bg-clr-main);
 }
+
+.graciela{
+    display: grid;
+    place-items: center;
+}
+
+.graciela p{
+    margin: .5em;
+}
+
+.bill{
+    margin: 2em;
+    width: 30vw;
+    height: 30vw;
+    border-radius: 15px;
+    box-shadow: #333333 0 0  15px;
+    /*border:red solid 15px;*/
+}

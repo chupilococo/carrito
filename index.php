@@ -14,12 +14,11 @@
     <link rel="stylesheet" type="text/css" href="css/productos.css">
     <link rel="stylesheet" href="css/contacto.css">
     <link rel="stylesheet" href="css/footer.css">
-<!--    <script src="js/main.js"></script>-->
 	<title>Carrito de Compras</title>
 </head>
 <body>
 	<header>
-		<h1><a href="?s=index" >Carrito de Compras <i class="far fa-calendar-alt"></i></a></h1>
+		<h1><a href="?s=index" >Carrito de Compras <i class="fas fa-shopping-basket"></i></a></h1>
 		<input type="checkbox" id="nav-toggle" class="nav-toggle">
 		<nav>
 			<ul>

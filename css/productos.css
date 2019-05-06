@@ -13,8 +13,15 @@
 }
 
 .productos .producto {
+    background-color: cadetblue;
+    padding: 1.3em;
+    margin:   .5em;
+    border-radius: 15px;
     display: grid;
     place-items: center;
+    font-size: 1.3em;
+    font-weight: 900;
+    box-shadow: #333333 0 0 15px;
 }
 
 .productos .producto img {
@@ -23,4 +30,67 @@
     height: 10em;
     width: 10em;
     border-radius: 5px;
+}
+
+.productos .producto .btn-ver{
+    text-decoration: none;
+    text-shadow: black 0 0 2em;
+    border-radius: 15px;
+    color: whitesmoke;
+    display: inline-grid;
+    place-items: center;
+    padding: 0 4em;
+    height: 2em;
+    margin-top: .7em;
+    box-shadow: #333333 0 5px 15px;
+    background-color: aqua;
+}
+
+.productos .producto .btn-ver:active{
+    box-shadow: #333333 0 0 0;
+}
+
+.producto-view{
+    display: grid;
+    grid-column: 1/4;
+    width: 100%;
+    place-items: center;
+}
+
+.producto-view-imgs img{
+    display: inline-block;
+    max-height: 40vh ;
+    max-width: 40vh ;
+    border-radius: 15px;
+    box-shadow: #333333 0 0 15px;
+}
+
+.producto-view-imgs img:nth-child(2){
+    position: relative;
+    z-index: 1;
+}
+
+
+.producto-view-imgs img:first-child{
+    max-height: 30vh ;
+    max-width: 30vh ;
+    position: absolute;
+    transform: translateX(-75%) translateY(20%);
+    z-index: 0;
+}
+.producto-view-imgs img:last-child{
+    max-height: 30vh ;
+    max-width: 30vh ;
+    position: absolute;
+    transform: translateX(-25%) translateY(20%);
+    z-index: 0;
+}
+
+
+.producto-view p{
+    margin: 2em;
+    white-space: pre-wrap;
+    font-size: 1.5em;
+    font-weight: 600;
+
 }

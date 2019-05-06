@@ -3,87 +3,50 @@
   "precio": 99.99,
   "desc": "esto es una pequeña descricipcion",
   "texto": " esto es el texto del producto \n oficia de descripcion pero en realidad es un texto para probar el layout de la pagina \n la unica razon por la que no es un lorem ipsum es por que el IDE no me reconocio el lorem+TAB  para auto generar el texto, pudrete franders",
-  "img": "http://unsplash.it/200/200"
+  "img1": "http://unsplash.it/600/400",
+  "img2": "http://unsplash.it/658/447",
+  "img3": "http://unsplash.it/636/474"
 }, {
   "producto": "nombre producto2",
   "precio": 99.99,
   "desc": "esto es una pequeña descricipcion",
   "texto": " esto es el texto del producto \n oficia de descripcion pero en realidad es un texto para probar el layout de la pagina \n la unica razon por la que no es un lorem ipsum es por que el IDE no me reconocio el lorem+TAB  para auto generar el texto, pudrete franders",
-  "img": "http://unsplash.it/200/200"
+  "img1": "http://unsplash.it/500/230",
+  "img2": "http://unsplash.it/575/230",
+  "img3": "http://unsplash.it/500/215"
 }, {
   "producto": "nombre producto3",
   "precio": 99.99,
   "desc": "esto es una pequeña descricipcion",
   "texto": " esto es el texto del producto \n oficia de descripcion pero en realidad es un texto para probar el layout de la pagina \n la unica razon por la que no es un lorem ipsum es por que el IDE no me reconocio el lorem+TAB  para auto generar el texto, pudrete franders",
-  "img": "http://unsplash.it/200/200"
+  "img1": "http://unsplash.it/912/756",
+  "img2": "http://unsplash.it/912/700",
+  "img3": "http://unsplash.it/919/756"
 }, {
   "producto": "nombre producto4",
   "precio": 99.99,
   "desc": "esto es una pequeña descricipcion",
   "texto": " esto es el texto del producto \n oficia de descripcion pero en realidad es un texto para probar el layout de la pagina \n la unica razon por la que no es un lorem ipsum es por que el IDE no me reconocio el lorem+TAB  para auto generar el texto, pudrete franders",
-  "img": "http://unsplash.it/200/200"
+  "img1": "http://unsplash.it/784/964",
+  "img2": "http://unsplash.it/715/923",
+  "img3": "http://unsplash.it/756/957"
 },
   {
     "producto": "nombre producto5",
     "precio": 99.99,
     "desc": "esto es una pequeña descricipcion",
     "texto": " esto es el texto del producto \n oficia de descripcion pero en realidad es un texto para probar el layout de la pagina \n la unica razon por la que no es un lorem ipsum es por que el IDE no me reconocio el lorem+TAB  para auto generar el texto, pudrete franders",
-    "img": "http://unsplash.it/200/200"
+    "img1": "http://unsplash.it/751/591",
+    "img2": "http://unsplash.it/712/515",
+    "img3": "http://unsplash.it/785/541"
   },
   {
     "producto": "nombre producto6",
     "precio": 99.99,
     "desc": "esto es una pequeña descricipcion",
     "texto": " esto es el texto del producto \n oficia de descripcion pero en realidad es un texto para probar el layout de la pagina \n la unica razon por la que no es un lorem ipsum es por que el IDE no me reconocio el lorem+TAB  para auto generar el texto, pudrete franders",
-    "img": "http://unsplash.it/200/200"
-  },
-  {
-    "producto": "nombre producto7",
-    "precio": 99.99,
-    "desc": "esto es una pequeña descricipcion",
-    "texto": " esto es el texto del producto \n oficia de descripcion pero en realidad es un texto para probar el layout de la pagina \n la unica razon por la que no es un lorem ipsum es por que el IDE no me reconocio el lorem+TAB  para auto generar el texto, pudrete franders",
-    "img": "http://unsplash.it/200/200"
-  },
-  {
-    "producto": "nombre producto8",
-    "precio": 99.99,
-    "desc": "esto es una pequeña descricipcion",
-    "texto": " esto es el texto del producto \n oficia de descripcion pero en realidad es un texto para probar el layout de la pagina \n la unica razon por la que no es un lorem ipsum es por que el IDE no me reconocio el lorem+TAB  para auto generar el texto, pudrete franders",
-    "img": "http://unsplash.it/200/200"
-  },
-  {
-    "producto": "nombre producto8",
-    "precio": 99.99,
-    "desc": "esto es una pequeña descricipcion",
-    "texto": " esto es el texto del producto \n oficia de descripcion pero en realidad es un texto para probar el layout de la pagina \n la unica razon por la que no es un lorem ipsum es por que el IDE no me reconocio el lorem+TAB  para auto generar el texto, pudrete franders",
-    "img": "http://unsplash.it/200/200"
-  },
-  {
-    "producto": "nombre producto8",
-    "precio": 99.99,
-    "desc": "esto es una pequeña descricipcion",
-    "texto": " esto es el texto del producto \n oficia de descripcion pero en realidad es un texto para probar el layout de la pagina \n la unica razon por la que no es un lorem ipsum es por que el IDE no me reconocio el lorem+TAB  para auto generar el texto, pudrete franders",
-    "img": "http://unsplash.it/200/200"
-  },
-  {
-    "producto": "nombre producto8",
-    "precio": 99.99,
-    "desc": "esto es una pequeña descricipcion",
-    "texto": " esto es el texto del producto \n oficia de descripcion pero en realidad es un texto para probar el layout de la pagina \n la unica razon por la que no es un lorem ipsum es por que el IDE no me reconocio el lorem+TAB  para auto generar el texto, pudrete franders",
-    "img": "http://unsplash.it/200/200"
-  },
-  {
-    "producto": "nombre producto8",
-    "precio": 99.99,
-    "desc": "esto es una pequeña descricipcion",
-    "texto": " esto es el texto del producto \n oficia de descripcion pero en realidad es un texto para probar el layout de la pagina \n la unica razon por la que no es un lorem ipsum es por que el IDE no me reconocio el lorem+TAB  para auto generar el texto, pudrete franders",
-    "img": "http://unsplash.it/200/200"
-  },
-  {
-    "producto": "nombre producto8",
-    "precio": 99.99,
-    "desc": "esto es una pequeña descricipcion",
-    "texto": " esto es el texto del producto \n oficia de descripcion pero en realidad es un texto para probar el layout de la pagina \n la unica razon por la que no es un lorem ipsum es por que el IDE no me reconocio el lorem+TAB  para auto generar el texto, pudrete franders",
-    "img": "http://unsplash.it/200/200"
+    "img1": "http://unsplash.it/200/200",
+    "img2": "http://unsplash.it/253/295",
+    "img3": "http://unsplash.it/222/242"
   }
 ]
