@@ -10,6 +10,6 @@ $content=<<<CONTENT
     <h2>Gracias, $_GET[usr]</h2>
     <p>Gracias por contactarte, vamos a tener en cuenta tu comentario/consulta</p>
     <p>Te dejo una linda imagne de Bill Murray</p>
-    <img src="http://fillmurray.com/$alt/$anc" alt=" imagen de bill murray">
+    <img class="bill" src="http://fillmurray.com/$alt/$anc" alt=" imagen de bill murray">
 </section>
 CONTENT;

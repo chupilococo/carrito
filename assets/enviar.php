@@ -1,4 +1,3 @@
 <?php
 
-
-header('location:/?s=merci&usr='.$_POST['email']);
+header('location:./../?s=merci&usr='.$_POST['email']);
