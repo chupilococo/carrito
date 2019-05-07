@@ -1,6 +1,5 @@
 <?php
 
-//$content='esto es el conntent';
 
 const Secciones=[
     'index'     =>'secciones/welcome.php',
@@ -20,4 +19,6 @@ if(!array_key_exists($seccion,Secciones)){
     $seccion=404;
 }
 
-require_once(Secciones[$seccion]);
+$aux=Secciones[$seccion]; //Esto esta solo para que le IDE no me putée por poner un array en un include
+
+require_once($aux);
