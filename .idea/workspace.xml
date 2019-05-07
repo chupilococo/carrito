@@ -1,33 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="91f6591d-750e-4f38-a0e8-96b457bf5860" name="Default Changelist" comment="un monton de cosas a ultimo momento">
-      <change afterPath="$PROJECT_DIR$/assets/imgs/bici.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/imgs/bici2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/imgs/bici3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/imgs/compresa.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/imgs/compresa2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/imgs/compresa3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/imgs/delorean.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/imgs/delorean2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/imgs/delorean3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/imgs/dique.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/imgs/dique2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/imgs/dique3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/imgs/papa.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/imgs/papa2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/imgs/papa2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/imgs/random.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/imgs/random2.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/imgs/random3.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/productos.json" beforeDir="false" afterPath="$PROJECT_DIR$/assets/productos.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/footer.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/footer.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/productos.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/productos.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/secciones/productos.php" beforeDir="false" afterPath="$PROJECT_DIR$/secciones/productos.php" afterDir="false" />
-    </list>
+    <list default="true" id="91f6591d-750e-4f38-a0e8-96b457bf5860" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -196,7 +170,7 @@
       <workItem from="1555976286850" duration="3818000" />
       <workItem from="1556044053403" duration="1812000" />
       <workItem from="1557163414638" duration="13618000" />
-      <workItem from="1557233314961" duration="14119000" />
+      <workItem from="1557233314961" duration="14213000" />
     </task>
     <task id="LOCAL-00001" summary="un monton de cosas">
       <created>1555955793445</created>
@@ -240,24 +214,30 @@
       <option name="project" value="LOCAL" />
       <updated>1557234245939</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="un monton de cosas a ultimo momento">
+      <created>1557264370267</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1557264370267</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="54138000" />
+    <option name="totallyTimeSpent" value="54232000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1920" y="27" width="1920" height="1053" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
       <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.16061899" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
-      <window_info active="true" anchor="bottom" id="Messages" order="0" visible="true" weight="0.32824427" />
+      <window_info anchor="bottom" id="Messages" order="0" weight="0.32824427" />
       <window_info anchor="bottom" id="Terminal" order="1" weight="0.3293348" />
       <window_info anchor="bottom" id="Database Changes" order="2" />
       <window_info anchor="bottom" id="Event Log" order="3" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="4" weight="0.32824427" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="4" visible="true" weight="0.32824427" />
       <window_info anchor="bottom" id="Docker" order="5" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="6" />
       <window_info anchor="bottom" id="Find" order="7" weight="0.3289256" />
