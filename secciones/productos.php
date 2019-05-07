@@ -10,11 +10,14 @@ $item=$_GET['item'];
 
         $body.="<div class='producto-view'>
                     <div class='producto-view-imgs'>
-                        <img src='$producto[img1]'/>
-                        <img src='$producto[img2]'/>
-                        <img src='$producto[img3]'/>
+                        <img src='$producto[img1]' alt='Imagen del producto'/>
+                        <img src='$producto[img2]' alt='Imagen del producto'/>
+                        <img src='$producto[img3]' alt='Imagen del producto'/>
                     </div>
-                    <p class='producto-vew-texto'>$producto[texto]</p>
+                    <div class='producto-view-info'>
+                        <p class='producto-view-texto'>$producto[texto]</p>
+                        <p class='producto-view-precio'>Precio: <span>$producto[precio]</span> <i class='fas fa-dollar-sign'></i> </p>
+                    </div>
                 </div>";
 
 
@@ -22,7 +25,7 @@ $item=$_GET['item'];
 
         $content=<<<CONTENT
         <section class="productos" >
-        <h2>Producto $producto[producto] </h2>
+        <h2>$producto[producto] </h2>
                 $body
         </section>
 CONTENT;

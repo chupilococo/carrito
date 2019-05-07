@@ -1,52 +1,52 @@
 [{
-  "producto": "nombre producto",
+  "producto": "Papas",
   "precio": 99.99,
-  "desc": "esto es una pequeña descricipcion",
-  "texto": " esto es el texto del producto \n oficia de descripcion pero en realidad es un texto para probar el layout de la pagina \n la unica razon por la que no es un lorem ipsum es por que el IDE no me reconocio el lorem+TAB  para auto generar el texto, pudrete franders",
-  "img1": "http://unsplash.it/600/400",
-  "img2": "http://unsplash.it/658/447",
-  "img3": "http://unsplash.it/636/474"
+  "desc": "Las mejores papas del Perú",
+  "texto": "esto es el texto del producto  oficia de descripcion pero en realidad es un texto para probar el layout de la pagina  la unica razon por la que no es un lorem ipsum es por que el IDE no me reconocio el lorem+TAB  para auto generar el texto, pudrete franders",
+  "img1": "assets/imgs/papa.jpg",
+  "img2": "assets/imgs/papa2.jpg",
+  "img3": "assets/imgs/papa2.png"
 }, {
-  "producto": "nombre producto2",
+  "producto": "Bicicleta Plegable",
   "precio": 99.99,
-  "desc": "esto es una pequeña descricipcion",
-  "texto": " esto es el texto del producto \n oficia de descripcion pero en realidad es un texto para probar el layout de la pagina \n la unica razon por la que no es un lorem ipsum es por que el IDE no me reconocio el lorem+TAB  para auto generar el texto, pudrete franders",
-  "img1": "http://unsplash.it/500/230",
-  "img2": "http://unsplash.it/575/230",
-  "img3": "http://unsplash.it/500/215"
+  "desc": "Bicicleta para personas Pequeñas",
+  "texto": "esto es el texto del producto oficia de descripcion pero en realidad es un texto para probar el layout de la pagina la unica razon por la que no es un lorem ipsum es por que el IDE no me reconocio el lorem+TAB  para auto generar el texto, pudrete franders",
+  "img1": "assets/imgs/bici.jpg",
+  "img2": "assets/imgs/bici2.jpg",
+  "img3": "assets/imgs/bici3.jpg"
 }, {
-  "producto": "nombre producto3",
+  "producto": "Compresas Para el dolor",
   "precio": 99.99,
-  "desc": "esto es una pequeña descricipcion",
-  "texto": " esto es el texto del producto \n oficia de descripcion pero en realidad es un texto para probar el layout de la pagina \n la unica razon por la que no es un lorem ipsum es por que el IDE no me reconocio el lorem+TAB  para auto generar el texto, pudrete franders",
-  "img1": "http://unsplash.it/912/756",
-  "img2": "http://unsplash.it/912/700",
-  "img3": "http://unsplash.it/919/756"
+  "desc": "Compresa para el dolor Calientes O frias",
+  "texto": "esto es el texto del producto oficia de descripcion pero en realidad es un texto para probar el layout de la pagina la unica razon por la que no es un lorem ipsum es por que el IDE no me reconocio el lorem+TAB  para auto generar el texto, pudrete franders",
+  "img1": "assets/imgs/compresa.jpg",
+  "img2": "assets/imgs/compresa2.jpg",
+  "img3": "assets/imgs/compresa3.jpg"
 }, {
-  "producto": "nombre producto4",
+  "producto": "Deloreans",
   "precio": 99.99,
-  "desc": "esto es una pequeña descricipcion",
-  "texto": " esto es el texto del producto \n oficia de descripcion pero en realidad es un texto para probar el layout de la pagina \n la unica razon por la que no es un lorem ipsum es por que el IDE no me reconocio el lorem+TAB  para auto generar el texto, pudrete franders",
-  "img1": "http://unsplash.it/784/964",
-  "img2": "http://unsplash.it/715/923",
-  "img3": "http://unsplash.it/756/957"
+  "desc": "Auto delorean Ideal para el viaje en el tiempo",
+  "texto": "esto es el texto del producto oficia de descripcion pero en realidad es un texto para probar el layout de la pagina la unica razon por la que no es un lorem ipsum es por que el IDE no me reconocio el lorem+TAB  para auto generar el texto, pudrete franders",
+  "img1": "assets/imgs/delorean.jpg",
+  "img2": "assets/imgs/delorean2.jpg",
+  "img3": "assets/imgs/delorean3.jpg"
 },
   {
-    "producto": "nombre producto5",
+    "producto": "Diques",
     "precio": 99.99,
-    "desc": "esto es una pequeña descricipcion",
-    "texto": " esto es el texto del producto \n oficia de descripcion pero en realidad es un texto para probar el layout de la pagina \n la unica razon por la que no es un lorem ipsum es por que el IDE no me reconocio el lorem+TAB  para auto generar el texto, pudrete franders",
-    "img1": "http://unsplash.it/751/591",
-    "img2": "http://unsplash.it/712/515",
-    "img3": "http://unsplash.it/785/541"
+    "desc": "Comprate Un Dique",
+    "texto": "esto es el texto del producto oficia de descripcion pero en realidad es un texto para probar el layout de la pagina la unica razon por la que no es un lorem ipsum es por que el IDE no me reconocio el lorem+TAB  para auto generar el texto, pudrete franders",
+    "img1": "assets/imgs/dique.jpg",
+    "img2": "assets/imgs/dique2.jpg",
+    "img3": "assets/imgs/dique3.jpg"
   },
   {
-    "producto": "nombre producto6",
+    "producto": "Random",
     "precio": 99.99,
-    "desc": "esto es una pequeña descricipcion",
-    "texto": " esto es el texto del producto \n oficia de descripcion pero en realidad es un texto para probar el layout de la pagina \n la unica razon por la que no es un lorem ipsum es por que el IDE no me reconocio el lorem+TAB  para auto generar el texto, pudrete franders",
-    "img1": "http://unsplash.it/200/200",
-    "img2": "http://unsplash.it/253/295",
-    "img3": "http://unsplash.it/222/242"
+    "desc": "Yo que se estoy re loco. Llevate una imagen random",
+    "texto": "Aca si que se pasan.\nUna salchicha en una cascara de banana.\nEl meme de Pikachu.\nY un ... Que es eso? se acabo me voy de aqui.",
+    "img1": "assets/imgs/random.jpeg",
+    "img2": "assets/imgs/random2.jpeg",
+    "img3": "assets/imgs/random3.jpeg"
   }
 ]

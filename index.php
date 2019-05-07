@@ -2,7 +2,7 @@
     include_once ('logic/getContentent.php');
 ?>
 <!DOCTYPE html>
-<html lang="es">
+<html lang="ES">
 <head>
 	<meta charset="utf-8">
 	<meta lang="es">

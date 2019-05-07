@@ -7,4 +7,5 @@ footer{
     height: 5vh;
     background-color: var(--bg-clr-nav);
     place-content: center;
+    z-index: 999;
 }
