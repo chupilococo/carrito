@@ -17,7 +17,7 @@ if(isset($_GET['s'])){
 
 if(!array_key_exists($seccion,Secciones)){
     $seccion=404;
-}
+};
 
 $aux=Secciones[$seccion]; //Esto esta solo para que le IDE no me putée por poner un array en un include
 
